@@ -1,0 +1,2 @@
+# ACP Replay Agent has no external dependencies
+# Python 3.6+ standard library is sufficient
